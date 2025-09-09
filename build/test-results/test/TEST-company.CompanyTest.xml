@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="company.CompanyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-09T12:18:18" hostname="DESKTOP-NV6G29F" time="0.031">
+  <properties/>
+  <testcase name="totalIncomeValueEmptyList()" classname="company.CompanyTest" time="0.027"/>
+  <testcase name="totalIncomeValue()" classname="company.CompanyTest" time="0.001"/>
+  <testcase name="enoughIncome()" classname="company.CompanyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
